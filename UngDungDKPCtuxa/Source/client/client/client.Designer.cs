@@ -79,13 +79,13 @@
             // 
             // butReg
             // 
-            this.butReg.Location = new System.Drawing.Point(93, 196);
-            this.butReg.Name = "butReg";
-            this.butReg.Size = new System.Drawing.Size(198, 65);
-            this.butReg.TabIndex = 5;
-            this.butReg.Text = "Sửa registry";
-            this.butReg.UseVisualStyleBackColor = true;
-            this.butReg.Click += new System.EventHandler(this.butReg_Click);
+            //this.butReg.Location = new System.Drawing.Point(93, 196);
+            //this.butReg.Name = "butReg";
+            //this.butReg.Size = new System.Drawing.Size(198, 65);
+            //this.butReg.TabIndex = 5;
+            //this.butReg.Text = "Sửa registry";
+            //this.butReg.UseVisualStyleBackColor = true;
+            //this.butReg.Click += new System.EventHandler(this.butReg_Click);
             // 
             // butExit
             // 
